@@ -5,6 +5,18 @@
 #### ${🛠\ Skills\ and\ tools:\ {\color{green}Manual\ Testing,\ Selenium\ Webdriver,\ Appium,\ Postman}}$
 #### ${⛏\ Testing\ Frameworks:\ {\color{blue}TestNG,\ PyTest}}$
 #### ${🌱\ Currently\ learning\ - {\color{magenta}Testing\ of\ AI\ 🤖}}$
+
   
-  
-  
+
+
+#### Main Languages and Tools
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF8300?style=for-the-badge&logo=testng&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-472B88?style=for-the-badge&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
