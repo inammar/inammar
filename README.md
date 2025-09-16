@@ -5,6 +5,7 @@
 #### 🛠 *Skills and tools:* Manual Testing, Selenium Webdriver, Appium, Postman
 #### ⛏ *Testing Frameworks:* TestNG
 #### 🌱 *Currently learning:* Databases with SQL and Testing of AI 🤖
+#### Contact me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bB2PzKwQ)
 
   
 
